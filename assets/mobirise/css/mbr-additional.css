@@ -3,6 +3,7 @@
 
 
 
+
 body {
   font-family: Dosis;
   font-style: normal;
@@ -20,7 +21,7 @@ body {
   line-height: 1.6;
 }
 .display-1 {
-  font-family: 'BMHANNA_11yrs_ttf';
+  font-family: 'Open Sans', sans-serif;
   font-size: 3.4rem;
 }
 .display-1 > .mbr-iconfont {
@@ -1259,6 +1260,55 @@ body {
   text-align: center;
   color: #ffffff;
 }
+.cid-qL7M6AyMjm {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #ffcd40;
+}
+.cid-qL7M6AyMjm p {
+  color: #767676;
+}
+.cid-qL7M6AyMjm .underline {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+.cid-qL7M6AyMjm .underline .line {
+  width: 5rem;
+  height: 3px;
+  background: linear-gradient(90deg, #ffbc00, #3e97d1);
+  display: inline-block;
+}
+@media (min-width: 1500px) {
+  .cid-qL7M6AyMjm .text-content {
+    padding: 5rem;
+  }
+  .cid-qL7M6AyMjm .media-content {
+    padding-right: 5rem;
+  }
+}
+@media (max-width: 1499px) and (min-width: 768px) {
+  .cid-qL7M6AyMjm .text-content {
+    padding: 3rem;
+  }
+}
+@media (max-width: 1499px) and (min-width: 991px) {
+  .cid-qL7M6AyMjm .media-content {
+    padding-right: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-qL7M6AyMjm .text-content {
+    padding: 2rem 1rem;
+  }
+}
+.cid-qL7M6AyMjm .mbr-text,
+.cid-qL7M6AyMjm .mbr-section-btn {
+  color: #000000;
+}
+.cid-qL7M6AyMjm .underline,
+.cid-qL7M6AyMjm .mbr-title {
+  color: #ffffff;
+}
 .cid-qKVLSY6v3j {
   padding-top: 0px;
   padding-bottom: 0px;
@@ -2056,6 +2106,10 @@ body {
   .cid-qKV4yAKv1P p.date {
     text-align: center;
   }
+}
+.cid-qKV4yAKv1P .card-title,
+.cid-qKV4yAKv1P .card-img {
+  text-align: center;
 }
 .cid-qKWe6RyzCl {
   padding-top: 15px;
